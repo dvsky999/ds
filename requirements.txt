@@ -1,0 +1,12 @@
+aiohttp>=3.10
+aiosqlite>=0.20
+duckdb>=1.0
+gymnasium>=0.29
+numpy>=1.26
+pandas>=2.2
+pyarrow>=16.1
+python-dotenv>=1.0
+pyyaml>=6.0
+stable-baselines3>=2.3
+tenacity>=9.0
+tensorboard>=2.17

@@ -1,0 +1,8 @@
+services:
+  ai-trading:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+    command: python main.py
